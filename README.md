@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋Hi, I'm Nosilla 
 
-<!--
-**nos49/nos49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Cybersecurity Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔒Cybersecurity Projects 
+- [Threat Intelligence]
+
+
+---
+
+## 🎓Education
+**ECPI University** - B.S. Computer & Information Science, *Cybersecurity* (March 2025)
+**Western Governors University** - M.S. Computer Science, *Computing Systems* (in progress)
+
+---
+
+## 📜Certifications
+- CompTIA **Security+** (July 2024)
+- CompTIA **CySA+** (in progress)
+- Hack the Box **Certified Defensive Security Analyst (CDSA)** (in progress)
+
+---
+
+## 📱Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/nosillagarner/
+- **Email:** garnernosilla495@gmail.com
