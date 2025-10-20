@@ -6,7 +6,7 @@
 ---
 
 ## 🔒 Cybersecurity Projects 
-- [Threat Intelligence]
+- [Threat Intelligence](https://github.com/nos49/Threat-Intelligence-Projects)
 
 
 ---
