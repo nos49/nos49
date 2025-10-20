@@ -12,7 +12,7 @@
 ---
 
 ## 🎓 Education
-**ECPI University** - B.S. Computer & Information Science, *Cybersecurity* (March 2025)
+[**ECPI University** - B.S. Computer & Information Science, *Cybersecurity* (March 2025)](https://credentials.ecpi.edu/certificate/fda212d418b85d1f8d01bea75d3cce50)
 
 **Western Governors University** - M.S. Computer Science, *Computing Systems* (in progress)
 
