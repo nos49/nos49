@@ -19,7 +19,7 @@
 ---
 
 ## 📜 Certifications
-- CompTIA **Security+** (July 2024)
+- [CompTIA **Security+** (July 2024)](https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url)
 - CompTIA **CySA+** (in progress)
 - Hack the Box **Certified Defensive Security Analyst (CDSA)** (in progress)
 
