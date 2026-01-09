@@ -6,8 +6,8 @@
 ---
 
 ## 🔒 Cybersecurity Projects 
-- [Threat Intelligence](https://github.com/nos49/Threat-Intelligence-Projects)
 
+## 👩‍💻 Programming Projects
 
 ---
 
