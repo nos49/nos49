@@ -22,7 +22,6 @@
 ## 📜 Certifications
 - [CompTIA **Security+** (July 2024)](https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url)
 - [Hack the Box **Certified Penetration Testing Specialist** (In Progress)]
-- [Hack the Box **Certified Web Exploitation Specialist** (In Progress)]
 
 ---
 
