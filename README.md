@@ -23,8 +23,7 @@
 
 ## 📜 Certifications
 - [CompTIA **Security+** (July 2024)](https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url)
-- [Hack the Box **Certified Penetration Testing Specialist** (CPTS) (In Progress)]
-- [Hack the Box **Certified Defensive Security Analyst** (CDSA) (In Progress)]
+- [Hack the Box **Certified Junior Security Analyst** (CJSA) (In Progress)]
 
 ---
 
