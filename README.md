@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Nosilla 
 
 
-### Network Infrastructure Supervisor | Cybersecurity Progessional | Programmer
+### Network Operations Supervisor | Cybersecurity Professional | Programmer
 
 ---
-
-## 🌐 Networking Projects
 
 ## 🔒 Cybersecurity Projects 
 
@@ -25,7 +23,6 @@
 - [CompTIA **Security+** (July 2024)](https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url)
 - [Hack the Box **Certified Junior Security Analyst** (CJSA) (In Progress)]
 - [OffSec **Kali Linux Certified Professional** (KLCP) (In Progress)]
-  
 ---
 
 ## 📱 Connect With Me
