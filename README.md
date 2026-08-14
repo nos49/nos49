@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nosilla 
 
 
-### Network Operations Supervisor | Cybersecurity Professional | Programmer
+### Classified Network Operations Supervisor | Cybersecurity Professional | Programmer
 
 ---
 
