@@ -6,7 +6,7 @@
 ---
 
 ## 🔒 Cybersecurity Projects 
-
+📑 [**HacktheBox Machine Reports**](https://github.com/nos49/machine_reports) 
 
 ## 👩‍💻 Programming Projects
 
