@@ -11,7 +11,7 @@
 ---
 
 ## 🎓 Education
-[**ECPI University** - B.S. Computer & Information Science, *Cybersecurity* (March 2025)](https://media.licdn.com/dms/image/v2/D562DAQEYCc8uhnUpWA/profile-treasury-image-shrink_1280_1280/B56Z_sfSTkKcAc-/0/1786379052522?e=1787356800&v=beta&t=zRbo6eDCZUwaxd4hip0zVHjFskvxDjVXHgu94AVKhIM)
+[**ECPI University** - B.S. Computer & Information Science, *Cybersecurity* (March 2025)](https://www.linkedin.com/in/nosillagarner/overlay/Education/841186959/treasury/?profileId=ACoAADtOrq0BtyGjoAy0O1eqezgvLjlxR00lRT0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BNP%2B53kSSh%2Bt3%2Fnz5PhmMg%3D%3D)
 
 [**Western Governors University** - M.S. Computer Science, *Computing Systems* (July 2026)](https://media.licdn.com/dms/image/v2/D562DAQGIFje0hxveNw/profile-treasury-image-shrink_1920_1920/B56Z_se4UXHcAk-/0/1786378946169?e=1787356800&v=beta&t=olFMU1BRxKIGAhv91kzljpdEdax-2F5SpOiaeaSVSQA)
 
