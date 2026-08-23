@@ -8,6 +8,7 @@
 ## 🔒 Cybersecurity Projects 
 📑 [**HacktheBox Machine Reports**](https://github.com/nos49/machine_reports) 
 
+---
 
 ## 🎓 Education
 [**ECPI University** - B.S. Computer & Information Science, *Cybersecurity* (March 2025)](https://media.licdn.com/dms/image/v2/D562DAQEYCc8uhnUpWA/profile-treasury-image-shrink_1280_1280/B56Z_sfSTkKcAc-/0/1786379052522?e=1787356800&v=beta&t=zRbo6eDCZUwaxd4hip0zVHjFskvxDjVXHgu94AVKhIM)
