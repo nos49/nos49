@@ -36,14 +36,14 @@ I specialize in network operations, offensive security, and building secure syst
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="[https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d]">
+      <a href="https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d">
         <img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100" alt="CCNA"/>
       </a>
     </td>
     <td>
-      <strong><a href="[https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d]">CCNA</a></strong><br/>
+      <strong><a href="https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d">CCNA</a></strong><br/>
       Issued by Cisco · Sep 2026<br/>
-      <a href="[https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d]">Verify credential</a>
+      <a href="https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d">Verify credential</a>
     </td>
   </tr>
   <tr>
