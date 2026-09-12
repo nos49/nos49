@@ -60,7 +60,7 @@ I specialize in network operations, offensive security, and building secure syst
   </tr>
 </table>
 
-*Currently pursuing: **CompTIA CySA+ & Microsoft SC-900** (expected Oct 2026)*
+*Currently pursuing: **HacktheBox CPTS & OffSec OSCP** (expected Oct 2026)*
 
 ---
 
