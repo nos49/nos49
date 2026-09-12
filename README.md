@@ -24,26 +24,26 @@ I specialize in network operations, offensive security, and building secure syst
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://www.credly.com/earner/earned/badge/56ff9b2f-0850-4f47-a255-76bc82d9e39c">
+      <a href="https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url">
         <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100" alt="Security+"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/earner/earned/badge/56ff9b2f-0850-4f47-a255-76bc82d9e39c">Security+</a></strong><br/>
+      <strong><a href="https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url">Security+</a></strong><br/>
       Issued by CompTIA · Jul 2024<br/>
-      <a href="https://www.credly.com/earner/earned/badge/56ff9b2f-0850-4f47-a255-76bc82d9e39c">Verify credential</a>
+      <a href="https://www.credly.com/badges/56ff9b2f-0850-4f47-a255-76bc82d9e39c/public_url">Verify credential</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d">
+      <a href="https://www.credly.com/badges/5e39412f-22a7-428f-961d-3cb1674d4f2d/public_url">
         <img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100" alt="CCNA"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d">CCNA</a></strong><br/>
+      <strong><a href="https://www.credly.com/badges/5e39412f-22a7-428f-961d-3cb1674d4f2d/public_url">CCNA</a></strong><br/>
       Issued by Cisco · Sep 2026<br/>
-      <a href="https://www.credly.com/earner/earned/badge/5e39412f-22a7-428f-961d-3cb1674d4f2d">Verify credential</a>
+      <a href="https://www.credly.com/badges/5e39412f-22a7-428f-961d-3cb1674d4f2d/public_url">Verify credential</a>
     </td>
   </tr>
   <tr>
