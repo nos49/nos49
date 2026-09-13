@@ -8,7 +8,7 @@ I specialize in network operations, offensive security, and building secure syst
 
 ## 🔒 Cybersecurity Projects
 
-📑 [**HackTheBox Machine Reports**](https://github.com/nos49/machine_reports/README.md) — A collection of penetration testing writeups documenting full attack chains, technical findings, and remediation guidance in a professional report format.
+📑 [**HackTheBox Machine Reports**](https://github.com/nos49/machine_reports/blob/main/README.md) — A collection of penetration testing writeups documenting full attack chains, technical findings, and remediation guidance in a professional report format.
 
 ---
 
