@@ -2,7 +2,7 @@
 
 ### Classified Network Operations Supervisor | Cybersecurity Professional
 
-I specialize in network operations, offensive security, and building secure systems. Below you'll find my cybersecurity projects, professional background, and ways to connect.
+I specialize in network operations, cybersecurity, and building secure systems. Below you'll find my cybersecurity projects, professional background, and ways to connect.
 
 ---
 
