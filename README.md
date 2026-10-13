@@ -4,7 +4,6 @@
 
 I specialize in network operations, cybersecurity, and building secure systems. Below you'll find my cybersecurity projects, professional background, and ways to connect.
 
----
 
 ## 🪲 Penetration Testing Projects
 
@@ -21,7 +20,6 @@ I specialize in network operations, cybersecurity, and building secure systems. 
 - BS Computer and Information Science, Cybersecurity — ECPI (2025)
 - MS Computer Science, Computing Systems — Western Governor University (2026)
 
----
 
 ## 📜 Certifications
 
@@ -66,7 +64,6 @@ I specialize in network operations, cybersecurity, and building secure systems. 
 
 *Currently pursuing: **HacktheBox CPTS & OffSec OSCP** (expected Nov 2026)*
 
----
 
 ## 🛠️ Skills
 
@@ -74,7 +71,6 @@ I specialize in network operations, cybersecurity, and building secure systems. 
 **Tools:** Nmap · Burp Suite · sqlmap · Metasploit
 **Programming:** Python, Bash, PowerShell
 
----
 
 ## 📱 Connect With Me
 
