@@ -15,7 +15,6 @@ I specialize in network operations, cybersecurity, and building secure systems. 
 - [**Vulnerability Management Program Implementation**](https://github.com/nos49/vulnerability_management_program/tree/main)
 - [**DISA STIG Remediation**](https://github.com/nos49/STIGs/tree/main)
 
----
 
 ## 🎓 Education
 
