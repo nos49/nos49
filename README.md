@@ -70,9 +70,9 @@ I specialize in network operations, cybersecurity, and building secure systems. 
 
 ## 🛠️ Skills
 
-**Security:** SQL Injection · SSTI · Privilege Escalation · Web Application Testing · Network Enumeration
-**Tools:** Nmap · Burp Suite · sqlmap · Metasploit
-**Programming:** Python, Bash, PowerShell
+**Security:** Network Testing · Web Application Testing · Network Enumeration · Vulnerability Management · Threat Hunting 
+**Tools:** Nmap · Burp Suite · sqlmap · Metasploit · Tenable · Microsoft Sentiel 
+**Programming:** Python, Bash, PowerShell · KQL
 
 
 ## 📱 Connect With Me
