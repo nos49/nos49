@@ -65,7 +65,7 @@ I specialize in network operations, cybersecurity, and building secure systems. 
   </tr>
 </table>
 
-*Currently pursuing: **HacktheBox CPTS & OffSec OSCP** (expected Nov 2026)*
+*Currently pursuing: **OffSec OSCP** (expected Nov 2026), **CompTIA CySA+** (expected Dec 2026), and **MS Certified: Security, Compliance, and Identity Fundamentals** certifications.
 
 
 ## 🛠️ Skills
